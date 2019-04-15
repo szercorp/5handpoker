@@ -1,0 +1,11 @@
+.Table-Wrapper {
+	width: 1000px;
+	height: 500px;
+	background-color: #4e004e;
+	border-radius: 150px;
+	border: 8px solid #a95555;
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

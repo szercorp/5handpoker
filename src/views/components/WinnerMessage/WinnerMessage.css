@@ -1,0 +1,13 @@
+.message {
+    width: 350px;
+    height: 100px;
+    background-color: #4C004C;
+    border-radius: 25px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
